@@ -55,7 +55,6 @@ ul, ol{
 li{
     color: #888;
 }
-
 .lh-17{
     line-height: 1.7;
 }
@@ -92,7 +91,6 @@ li{
 .mt-5{
     margin-top: 1rem;
 }
-
 @media(min-width: 765px){
     .mt-5{
         margin-top: 0em!important;
@@ -120,7 +118,6 @@ li{
 .h-100{
     min-height: calc(100vh - 120px);
 }
-
 @media (min-width: 768px){
     .col-2{
         width: calc(100% / 12) * 2 !important;
@@ -159,7 +156,6 @@ li{
 .m-none{
     display: none;
 }
-
 @media(min-width: 768px){
     body{
         font-size: 15px;
@@ -189,7 +185,6 @@ button{
     max-width: 1200px;
     margin: 0 auto;
 }
-
 .flex-left{
     display: flex;
     width: 100%;
@@ -199,10 +194,8 @@ button{
     display: flex;
     align-items: center;
 }
-
 .btn-white{
     background-color: none;
- 
 }
 .price-prev{
     text-decoration: line-through;
@@ -233,17 +226,14 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
 td, th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
 }
-
 tr:nth-child(even) {
   background-color: #dddddd75;
 }
-
 .form_control {
     width: 130px;
     height: 30px;
@@ -273,25 +263,20 @@ tr:nth-child(even) {
 .show{
     display: block;
 }
-
 .mse2_number_inputs label:first-child {
     margin-right: 10px;
 }
-
 .align-center{
     display: flex;
     align-items: center;
 }
-
 .new_title{
     width: 80%;
 }
-
 .btn-danger{
     background-color: #db4136;
     color: #fff;
 }
-
 .work-carousel a{
     height: 200px;
     object-fit: cover;
@@ -303,13 +288,9 @@ tr:nth-child(even) {
 .text-center{
     text-align: center;
 }
-
 .justify-content-center{
     justify-content: center;
 }
-
-
-
 .sidebar{
     margin-bottom: 3rem;
 }
@@ -335,7 +316,6 @@ tr:nth-child(even) {
         margin-right: 20px;
     }
 }
-
 #popup__toggle {
     width: 320px;
     bottom: -25px;
@@ -364,7 +344,6 @@ tr:nth-child(even) {
     animation: circle-anim 2.4s infinite ease-in-out !important;
     transition:all .5s
 }
-
 .circle-fill {
     box-sizing: content-box;
     -webkit-box-sizing: content-box;
@@ -379,7 +358,6 @@ tr:nth-child(even) {
     animation: circle-fill-anim 2.3s infinite ease-in-out;
     transition:all .5s
 }
-
 .img-circle {
     box-sizing: content-box;
     -webkit-box-sizing: content-box;
@@ -392,7 +370,6 @@ tr:nth-child(even) {
     border: 2px solid rgba(0, 0, 0, 0);
     opacity:.7
 }
-
 .img-circleblock {
     color: #fff;
     display: flex;
@@ -412,53 +389,43 @@ tr:nth-child(even) {
     -webkit-animation-iteration-count:infinite;
     font-size: 33px;
 }
-
 .img-circle:hover {
     opacity:1
 }
-
 @keyframes pulse {
     0% {
         transform: scale(.9);
         opacity:1
     }
-
     50% {
         transform: scale(1);
         opacity:1
     }
-
     100% {
         transform: scale(.9);
         opacity:1
     }
 }
-
 @keyframes tossing {
     0% {
         transform:rotate(-8deg)
     }
-
     50% {
         transform:rotate(8deg)
     }
-
     100% {
         transform:rotate(-8deg)
     }
 }
-
 @keyframes circle-anim {
     0% {
         transform: rotate(0deg) scale(.5) skew(1deg);
         opacity:.1
     }
-
     30% {
         transform: rotate(0deg) scale(.7) skew(1deg);
         opacity:.5
     }
-
     100% {
         transform: rotate(0deg) scale(1) skew(1deg);
         opacity:.1
@@ -470,12 +437,10 @@ tr:nth-child(even) {
         transform: rotate(0deg) scale(.7) skew(1deg);
         opacity:.2
     }
-
     50% {
         transform: rotate(0deg) scale(1) skew(1deg);
         opacity:.2
     }
-
     100% {
         transform: rotate(0deg) scale(.7) skew(1deg);
         opacity:.2
@@ -486,11 +451,9 @@ tr:nth-child(even) {
     0% {
         transform:scale(1)
     }
-
     50% {
         transform:scale(1.1)
     }
-
     100% {
         transform:scale(1)
     }
@@ -500,11 +463,9 @@ tr:nth-child(even) {
     0% {
         transform:rotate(0deg)
     }
-
     50% {
         transform:rotate(3deg)
     }
-
     100% {
         transform:rotate(0deg)
     }
@@ -514,11 +475,9 @@ tr:nth-child(even) {
     90% {
         transform:rotateZ(0deg)
     }
-
     95% {
         transform:scale(1.1)
     }
-
     100% {
         transform:rotateZ(0deg)
     }
@@ -564,7 +523,6 @@ tr:nth-child(even) {
         }
     }
 }
-
 .pagination {
     margin: 0;
     padding: 0;
