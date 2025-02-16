@@ -1,0 +1,4 @@
+[2025-02-12 20:44:14] (ERROR in xPDO::getService @ /var/www/u1833722/data/www/webartplus.ru/core/xpdo/xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2025-02-12 20:44:14] (ERROR in modRestCurlClient::__construct @ /var/www/u1833722/data/www/webartplus.ru/core/model/modx/rest/modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2025-02-12 20:44:14] (ERROR in xPDO::getService @ /var/www/u1833722/data/www/webartplus.ru/core/xpdo/xpdo.class.php : 1235) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
+[2025-02-12 20:44:14] (ERROR in modRestCurlClient::__construct @ /var/www/u1833722/data/www/webartplus.ru/core/model/modx/rest/modrestcurlclient.class.php : 26) modRestClient::__construct is deprecated since version 2.3.0. Use the modRest classes instead.
